@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio Noémie Mathu</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="header">
+        <h3 class="portfolio">Portfolio</h3>
+        <h2 class="name">Noémie Mathu</h2>
+        <nav class="menu">
+            <ul>
+                <li><a href="#Twee">Introductie</a> </li>
+                <li><a href="#Drie">Over mij</a> </li>
+                <li><a href="#Vier">Contact informatie</a> </li>
+            </ul>
+        </nav>
+    </div>
+
+    <div id="Twee" class="twee">
+        <img src="Portfoliofoto.png" class="foto" alt="foto">
+        <div class="intro">
+            <h1>
+                Hallo, mijn naam is Noémie!!
+            </h1>
+            <a>
+                Ik ben geboren op 23 Noverber in 2006 en woon in Beverwijk.
+                Ik doe de opleiding 'Software Defeloper' op het Nova College ook in Beverwijk,
+                waar ik leer programeren in veel verschillende talen.
+            </a>
+        </div>
+    </div>
+
+    <div class="blok"></div>
+    <div id="Drie" class="drie">
+        <div class="opleiding">
+            <div class="flex">
+                <img class="cap" src="mortarboard.png" alt="">
+                <h1>Opleidingen</h1>
+            </div>
+            <a>
+                Kennermer College Mavo, Beverwijk - 2018-2022 diploma behaald <br>
+                Nova College Beverwijk, Software Defeloper - 2022-heden
+            </a>
+        </div>
+
+        <div class="talen">
+            <div class="flex">
+                <img class="speak" src="speak.png" alt="">
+                <h1>Talen</h1>
+            </div>
+            <img class="vlaggen" src="Frame%205.png" alt="">
+        </div>
+
+        <div class="hobbies">
+            <div class="flex">
+                <img class="speak" src="hobbies.png" alt="">
+                <h1>Hobbies</h1>
+            </div>
+            <img class="hobbieimg" src="Hobbie.png" alt="">
+        </div>
+    </div>
+    <div class="blok"></div>
+    <div id="Vier" class="vier">
+        <h1 class="contact">Contact informatie</h1>
+        <a class="box1">
+            Noémie Mathu <br>
+            Creutzberglaan 78<br>
+            1943 NT Beverwijk<br>
+            +31 6 312 198 04<br>
+            noemiemathu@icloud.com
+        </a>
+        <a href="CV%20Noémie%20Mathu.pdf" download>
+        <button class="button">Download CV</button>
+        </a>
+    </div>
+    <button onclick="scrollToTop()" id="scrollToTopBtn" title="Ga naar boven"><img class="huis" src="Images/house.png" alt=""></button>
+    <script>
+        window.onscroll = function() {
+            toggleScrollToTopButton();
+        };
+
+        function toggleScrollToTopButton() {
+            var scrollToTopBtn = document.getElementById("scrollToTopBtn");
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                scrollToTopBtn.style.display = "block";
+            } else {
+                scrollToTopBtn.style.display = "none";
+            }
+        }
+
+        function scrollToTop() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+    </script>
+</body>
+</html>
