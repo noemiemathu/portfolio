@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6c96dd2-ed8f-4c56-9816-03f43f9343b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/PHP_content.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/.idea/JS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/408298.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/fonts/MickeyEars-Rv16.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/fonts/waltographUI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/h5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/h5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/h5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/h5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/website.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS/website.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP_Opdrachten/.idea/phpopdrachten.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/.idea/Portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/Desktop - 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/Frame 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/Group 7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/Index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/achtergrond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/betere-achtergrond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/image-from-rawpixel-id-12672331-png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/image-from-rawpixel-id-15079332-png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/menu knop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Portfolio/—Pngtree—yellow cute star decoration_4665152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Emilya-Birthday-17734982/Emilya Birthday.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Happy Selfie.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Marcel Merlina.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fonts/Shine Bubble Decoration - (Demo) hanscostudio.com.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Flowers.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Frame 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Hobbie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Portfoliofoto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Snowflakes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/drawing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/france.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/hobbies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/ice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/mortarboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/paper-crafts (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/sneewland.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/speak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/united-kingdom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PycharmProjects/Mandelbrot/.idea/Mandelbrot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPS_Game/.idea/RPS_Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/Desktop - 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/Index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PNetRunner.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../PNetRunner.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2mYMMZlwmAdCiQalfoIqRytY0o3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23339.16" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23339.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6c96dd2-ed8f-4c56-9816-03f43f9343b4" name="Changes" comment="" />
+      <created>1727249008252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727249008252</updated>
+      <workItem from="1727249009259" duration="75000" />
+      <workItem from="1727249088409" duration="1963000" />
+      <workItem from="1727252887799" duration="7655000" />
+      <workItem from="1727332454397" duration="5518000" />
+      <workItem from="1727341127548" duration="2573000" />
+      <workItem from="1727678679738" duration="1121000" />
+      <workItem from="1727680949632" duration="48000" />
+      <workItem from="1727681065207" duration="393000" />
+      <workItem from="1727681626177" duration="3499000" />
+      <workItem from="1727692224658" duration="8254000" />
+      <workItem from="1727764341097" duration="3562000" />
+      <workItem from="1727861050575" duration="1209000" />
+      <workItem from="1727937174262" duration="4007000" />
+      <workItem from="1728305897346" duration="2215000" />
+      <workItem from="1728369625704" duration="2224000" />
+      <workItem from="1728373411775" duration="540000" />
+      <workItem from="1728374020834" duration="869000" />
+      <workItem from="1728378339637" duration="4023000" />
+      <workItem from="1728455543264" duration="4404000" />
+      <workItem from="1728549498386" duration="3947000" />
+      <workItem from="1728556075363" duration="8825000" />
+      <workItem from="1728980437508" duration="9489000" />
+      <workItem from="1729070012444" duration="2529000" />
+      <workItem from="1729146746887" duration="5437000" />
+      <workItem from="1729155720770" duration="7840000" />
+      <workItem from="1729492282324" duration="9196000" />
+      <workItem from="1729506467519" duration="7526000" />
+      <workItem from="1729578606126" duration="4991000" />
+      <workItem from="1729585213768" duration="4150000" />
+      <workItem from="1729665151209" duration="9472000" />
+      <workItem from="1729751411113" duration="9375000" />
+      <workItem from="1729765694732" duration="6608000" />
+      <workItem from="1729773539703" duration="353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
